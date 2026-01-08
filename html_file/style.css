@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.navbar{
+    background-color:#333;
+    overflow:hidden;
+    display:flex;
+    justify-content:center;
+    background-color: blue;
+}
+li{
+    list-style: none;
+}
