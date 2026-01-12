@@ -5,3 +5,5 @@ http://localhost:5002/about
 http://localhost:5002/contact
 If you enter an invalid URL or a non-existing page, such as http://localhost:5002/about123, the application will display the 404 page.
 
+
+![3](https://github.com/user-attachments/assets/9c62e5eb-26ae-46ad-be21-2b839bcec095)
